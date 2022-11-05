@@ -8,6 +8,6 @@ def main(a):
     """
     # Write your code here
     
-    return a>-1
+    return a==type(int())
 
 print (main (0))
